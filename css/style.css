@@ -1,0 +1,30 @@
+/* #mydiv,#myform{ 
+    background-color: aquamarine;
+   margin: 5%;
+   padding: 50px;
+   
+    
+} */
+#testbox{
+    padding: 5%;
+   border: 2px solid black;
+   margin: 5%;
+}
+.green{
+    background-color: green;
+    color: white;
+}
+
+.btn{
+    padding: 8px;
+    background-color: red;
+    border: 0px;
+    color: white;
+    margin: 5px;
+}
+
+.mydiv{
+    margin-top:2px;
+    float:right;
+    padding-right: 50%;
+}
